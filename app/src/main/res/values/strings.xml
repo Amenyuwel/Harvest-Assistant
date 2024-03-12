@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Harvest Assistant</string>
+    <string name="rsbsa_number">RSBSA Number</string>
+    <string name="create_account">Create account</string>
+    <string name="already_have_an_account_log_in_here">Already have an account? Log in here</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="rsbsa">RSBSA Number</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="text_pass">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in">Log In</string>
+    <string name="login">Login</string>
+    <string name="login_pass">Password</string>
+    <string name="number">Number</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="menu_Open">Open</string>
+    <string name="menu_close">Close</string>
+</resources>

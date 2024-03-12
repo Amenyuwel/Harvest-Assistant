@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/View_acc"
+            android:icon="@drawable/account_box"
+            android:title="View account"
+            tools:ignore="HardcodedText" />
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Help &amp; support">
+
+    <menu>
+        <group>
+            <item android:title="About us" android:id="@+id/about_us2" android:icon="@drawable/about_us"/>
+        </group>
+
+    </menu>
+
+        </item>
+
+
+    </group>
+
+</menu>
